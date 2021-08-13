@@ -15,12 +15,12 @@ $.ajax({
   });
 
 // Search button
-var searchBtn = $("<button>");
-var searchValue = $("search-value");
+// var searchBtn = $("<button>");
+// var searchValue = $("search-value");
 
-searchBtn.on("click", function(event) {
-  event.preventDefault();
-  searchvalue = "";
+// searchBtn.on("click", function(event) {
+//   event.preventDefault();
+//   searchvalue = "";
   
-});
+// });
 
