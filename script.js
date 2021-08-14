@@ -10,7 +10,7 @@ $.ajax({
   }).then(function(response) {
 
     // Display Colton, CA
-    console.log(response.name);
+    console.log(JSON.parse(stringify(response.main));
  
   });
 
